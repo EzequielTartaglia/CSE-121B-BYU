@@ -3,7 +3,7 @@
 ## Ponder Activities (Learning Practice)
 
 ### Simple to do list
-Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU/Week-3/DOM-Events_Ponder-activities-(ToDos)/index.html
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-3/DOM-Events_Ponder-activities-(ToDos)//index.html
 
 Description: The activity is an exercise about `Arrays advance operators` and `Events`, trying to manipulate the data in the HTML from javascript.
 
