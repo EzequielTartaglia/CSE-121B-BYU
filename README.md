@@ -15,6 +15,6 @@ Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyec
 Description: The activity is an exercise about `arrays` and `DOM`, trying to manipulate the data in the HTML from javascript.
 
 ### Simple calculator (Inputs to manipulate the DOM with the events)
-Source:
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-3/Prove-3-Events/task3.html
 
 Description: The activity is an exercise about `arrays` `methods` `events` and `DOM`, trying to manipulate the data in the HTML from javascript.
