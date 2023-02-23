@@ -3,13 +3,18 @@
 ## Ponder Activities (Learning Practice)
 
 ### Simple to do list
-Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-3/DOM-Events_Ponder-activities-(ToDos)//index.html
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-3/DOM-Events_Ponder-activities-(ToDos)/index.html
 
 Description: The activity is an exercise about `Arrays advance operators` and `Events`, trying to manipulate the data in the HTML from javascript.
 
 ## Prove Activities (Mini Projects)
 
 ### Simple DOM's change (modify)
-Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU/Week-2/Prove-2-DOM/index.html
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-2/Prove-2-DOM/index.html
 
-Description: The activity is an exercise about `Arrays` and `DOM`, trying to manipulate the data in the HTML from javascript.
+Description: The activity is an exercise about `arrays` and `DOM`, trying to manipulate the data in the HTML from javascript.
+
+### Simple calculator (Inputs to manipulate the DOM with the events)
+Source:
+
+Description: The activity is an exercise about `arrays` `methods` `events` and `DOM`, trying to manipulate the data in the HTML from javascript.
