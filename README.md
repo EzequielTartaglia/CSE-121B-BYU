@@ -18,3 +18,13 @@ Description: The activity is an exercise about `arrays` and `DOM`, trying to man
 Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-3/Prove-3-Events/task3.html
 
 Description: The activity is an exercise about `arrays` `methods` `events` and `DOM`, trying to manipulate the data in the HTML from javascript.
+
+
+### Working with Objects (Manipulate the HTML with a objects (array of objects and array of strings)
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-4/Prove-4-Objects/task4.html
+
+Description: The activity is an exercise about `Objects` `forEach` `events` and `DOM`, trying to manipulate the data in the HTML from javascript.
+
+
+
+
