@@ -25,6 +25,9 @@ Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyec
 
 Description: The activity is an exercise about `Objects` `forEach` `events` and `DOM`, trying to manipulate the data in the HTML from javascript.
 
+### Working with fetch (Get cards with information from API)
+Source: https://ezequieltartaglia.github.io/Javascript-CSE121B-BYU-Varios-proyectos/Week-4/Prove-4-Objects/task4.html
 
+Description: The activity is an exercise about `api` `fetch` `.then(promises)` and `DOM`, trying to manipulate the data in the HTML from javascript.
 
 
